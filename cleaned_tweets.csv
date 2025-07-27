@@ -1,0 +1,101 @@
+tweet_id,user,tweet,date,cleaned_tweet,sentiment
+1,@user1,Can't wait for the weekend! #excited,2023-01-01,cant wait for the weekend #excited,Positive
+2,@user2,Why is everything so expensive these days? #inflation,2023-01-02,why is everything so expensive these days #inflation,Negative
+3,@user3,Terrible service today. Really disappointed. #fail,2023-01-03,terrible service today really disappointed #fail,Neutral
+4,@user4,Politics is a mess right now. #news,2023-01-04,politics is a mess right now #news,Neutral
+5,@user5,Feeling under the weather today. 😷 #sick,2023-01-05,feeling under the weather today  #sick,Positive
+6,@user6,Why is everything so expensive these days? #inflation,2023-01-06,why is everything so expensive these days #inflation,Positive
+7,@user7,Terrible service today. Really disappointed. #fail,2023-01-07,terrible service today really disappointed #fail,Positive
+8,@user8,The weather is just perfect for a walk. #sunnyday,2023-01-08,the weather is just perfect for a walk #sunnyday,Negative
+9,@user9,Why is everything so expensive these days? #inflation,2023-01-09,why is everything so expensive these days #inflation,Neutral
+10,@user10,Not sure how I feel about this movie. Mixed emotions. #review,2023-01-10,not sure how i feel about this movie mixed emotions #review,Neutral
+11,@user11,Politics is a mess right now. #news,2023-01-11,politics is a mess right now #news,Positive
+12,@user12,This product exceeded my expectations. #happycustomer,2023-01-12,this product exceeded my expectations #happycustomer,Negative
+13,@user13,Terrible service today. Really disappointed. #fail,2023-01-13,terrible service today really disappointed #fail,Negative
+14,@user14,Feeling under the weather today. 😷 #sick,2023-01-14,feeling under the weather today  #sick,Positive
+15,@user15,Feeling under the weather today. 😷 #sick,2023-01-15,feeling under the weather today  #sick,Positive
+16,@user16,Feeling under the weather today. 😷 #sick,2023-01-16,feeling under the weather today  #sick,Positive
+17,@user17,The weather is just perfect for a walk. #sunnyday,2023-01-17,the weather is just perfect for a walk #sunnyday,Positive
+18,@user18,I love the new features in this update! #awesome,2023-01-18,i love the new features in this update #awesome,Neutral
+19,@user19,This product exceeded my expectations. #happycustomer,2023-01-19,this product exceeded my expectations #happycustomer,Positive
+20,@user20,The weather is just perfect for a walk. #sunnyday,2023-01-20,the weather is just perfect for a walk #sunnyday,Positive
+21,@user21,Why is everything so expensive these days? #inflation,2023-01-21,why is everything so expensive these days #inflation,Neutral
+22,@user22,Terrible service today. Really disappointed. #fail,2023-01-22,terrible service today really disappointed #fail,Positive
+23,@user23,Why is everything so expensive these days? #inflation,2023-01-23,why is everything so expensive these days #inflation,Positive
+24,@user24,Politics is a mess right now. #news,2023-01-24,politics is a mess right now #news,Positive
+25,@user25,Terrible service today. Really disappointed. #fail,2023-01-25,terrible service today really disappointed #fail,Positive
+26,@user26,This product exceeded my expectations. #happycustomer,2023-01-26,this product exceeded my expectations #happycustomer,Neutral
+27,@user27,Not sure how I feel about this movie. Mixed emotions. #review,2023-01-27,not sure how i feel about this movie mixed emotions #review,Positive
+28,@user28,Terrible service today. Really disappointed. #fail,2023-01-28,terrible service today really disappointed #fail,Neutral
+29,@user29,This product exceeded my expectations. #happycustomer,2023-01-29,this product exceeded my expectations #happycustomer,Neutral
+30,@user30,Had the best coffee this morning ☕ #blessed,2023-01-30,had the best coffee this morning  #blessed,Positive
+31,@user31,Terrible service today. Really disappointed. #fail,2023-01-31,terrible service today really disappointed #fail,Neutral
+32,@user32,Feeling under the weather today. 😷 #sick,2023-02-01,feeling under the weather today  #sick,Positive
+33,@user33,I love the new features in this update! #awesome,2023-02-02,i love the new features in this update #awesome,Positive
+34,@user34,Politics is a mess right now. #news,2023-02-03,politics is a mess right now #news,Negative
+35,@user35,This product exceeded my expectations. #happycustomer,2023-02-04,this product exceeded my expectations #happycustomer,Negative
+36,@user36,Terrible service today. Really disappointed. #fail,2023-02-05,terrible service today really disappointed #fail,Negative
+37,@user37,Why is everything so expensive these days? #inflation,2023-02-06,why is everything so expensive these days #inflation,Positive
+38,@user38,Feeling under the weather today. 😷 #sick,2023-02-07,feeling under the weather today  #sick,Positive
+39,@user39,Can't wait for the weekend! #excited,2023-02-08,cant wait for the weekend #excited,Neutral
+40,@user40,Why is everything so expensive these days? #inflation,2023-02-09,why is everything so expensive these days #inflation,Positive
+41,@user41,Politics is a mess right now. #news,2023-02-10,politics is a mess right now #news,Positive
+42,@user42,Had the best coffee this morning ☕ #blessed,2023-02-11,had the best coffee this morning  #blessed,Positive
+43,@user43,Can't wait for the weekend! #excited,2023-02-12,cant wait for the weekend #excited,Positive
+44,@user44,Feeling under the weather today. 😷 #sick,2023-02-13,feeling under the weather today  #sick,Negative
+45,@user45,Had the best coffee this morning ☕ #blessed,2023-02-14,had the best coffee this morning  #blessed,Positive
+46,@user46,This product exceeded my expectations. #happycustomer,2023-02-15,this product exceeded my expectations #happycustomer,Neutral
+47,@user47,Feeling under the weather today. 😷 #sick,2023-02-16,feeling under the weather today  #sick,Positive
+48,@user48,Not sure how I feel about this movie. Mixed emotions. #review,2023-02-17,not sure how i feel about this movie mixed emotions #review,Neutral
+49,@user49,Not sure how I feel about this movie. Mixed emotions. #review,2023-02-18,not sure how i feel about this movie mixed emotions #review,Neutral
+50,@user50,Had the best coffee this morning ☕ #blessed,2023-02-19,had the best coffee this morning  #blessed,Positive
+51,@user51,Had the best coffee this morning ☕ #blessed,2023-02-20,had the best coffee this morning  #blessed,Negative
+52,@user52,Feeling under the weather today. 😷 #sick,2023-02-21,feeling under the weather today  #sick,Neutral
+53,@user53,The weather is just perfect for a walk. #sunnyday,2023-02-22,the weather is just perfect for a walk #sunnyday,Negative
+54,@user54,Not sure how I feel about this movie. Mixed emotions. #review,2023-02-23,not sure how i feel about this movie mixed emotions #review,Negative
+55,@user55,Politics is a mess right now. #news,2023-02-24,politics is a mess right now #news,Neutral
+56,@user56,This product exceeded my expectations. #happycustomer,2023-02-25,this product exceeded my expectations #happycustomer,Negative
+57,@user57,The weather is just perfect for a walk. #sunnyday,2023-02-26,the weather is just perfect for a walk #sunnyday,Positive
+58,@user58,The weather is just perfect for a walk. #sunnyday,2023-02-27,the weather is just perfect for a walk #sunnyday,Positive
+59,@user59,Politics is a mess right now. #news,2023-02-28,politics is a mess right now #news,Positive
+60,@user60,Feeling under the weather today. 😷 #sick,2023-03-01,feeling under the weather today  #sick,Positive
+61,@user61,Why is everything so expensive these days? #inflation,2023-03-02,why is everything so expensive these days #inflation,Positive
+62,@user62,Feeling under the weather today. 😷 #sick,2023-03-03,feeling under the weather today  #sick,Positive
+63,@user63,Politics is a mess right now. #news,2023-03-04,politics is a mess right now #news,Negative
+64,@user64,Can't wait for the weekend! #excited,2023-03-05,cant wait for the weekend #excited,Positive
+65,@user65,Can't wait for the weekend! #excited,2023-03-06,cant wait for the weekend #excited,Positive
+66,@user66,Feeling under the weather today. 😷 #sick,2023-03-07,feeling under the weather today  #sick,Neutral
+67,@user67,Can't wait for the weekend! #excited,2023-03-08,cant wait for the weekend #excited,Positive
+68,@user68,Had the best coffee this morning ☕ #blessed,2023-03-09,had the best coffee this morning  #blessed,Negative
+69,@user69,I love the new features in this update! #awesome,2023-03-10,i love the new features in this update #awesome,Positive
+70,@user70,I love the new features in this update! #awesome,2023-03-11,i love the new features in this update #awesome,Negative
+71,@user71,The weather is just perfect for a walk. #sunnyday,2023-03-12,the weather is just perfect for a walk #sunnyday,Neutral
+72,@user72,I love the new features in this update! #awesome,2023-03-13,i love the new features in this update #awesome,Positive
+73,@user73,This product exceeded my expectations. #happycustomer,2023-03-14,this product exceeded my expectations #happycustomer,Positive
+74,@user74,Not sure how I feel about this movie. Mixed emotions. #review,2023-03-15,not sure how i feel about this movie mixed emotions #review,Negative
+75,@user75,Can't wait for the weekend! #excited,2023-03-16,cant wait for the weekend #excited,Neutral
+76,@user76,This product exceeded my expectations. #happycustomer,2023-03-17,this product exceeded my expectations #happycustomer,Neutral
+77,@user77,Politics is a mess right now. #news,2023-03-18,politics is a mess right now #news,Neutral
+78,@user78,This product exceeded my expectations. #happycustomer,2023-03-19,this product exceeded my expectations #happycustomer,Positive
+79,@user79,Not sure how I feel about this movie. Mixed emotions. #review,2023-03-20,not sure how i feel about this movie mixed emotions #review,Positive
+80,@user80,Can't wait for the weekend! #excited,2023-03-21,cant wait for the weekend #excited,Positive
+81,@user81,Not sure how I feel about this movie. Mixed emotions. #review,2023-03-22,not sure how i feel about this movie mixed emotions #review,Negative
+82,@user82,Not sure how I feel about this movie. Mixed emotions. #review,2023-03-23,not sure how i feel about this movie mixed emotions #review,Neutral
+83,@user83,Feeling under the weather today. 😷 #sick,2023-03-24,feeling under the weather today  #sick,Positive
+84,@user84,I love the new features in this update! #awesome,2023-03-25,i love the new features in this update #awesome,Positive
+85,@user85,The weather is just perfect for a walk. #sunnyday,2023-03-26,the weather is just perfect for a walk #sunnyday,Positive
+86,@user86,Why is everything so expensive these days? #inflation,2023-03-27,why is everything so expensive these days #inflation,Positive
+87,@user87,Can't wait for the weekend! #excited,2023-03-28,cant wait for the weekend #excited,Neutral
+88,@user88,The weather is just perfect for a walk. #sunnyday,2023-03-29,the weather is just perfect for a walk #sunnyday,Neutral
+89,@user89,Why is everything so expensive these days? #inflation,2023-03-30,why is everything so expensive these days #inflation,Negative
+90,@user90,The weather is just perfect for a walk. #sunnyday,2023-03-31,the weather is just perfect for a walk #sunnyday,Positive
+91,@user91,Not sure how I feel about this movie. Mixed emotions. #review,2023-04-01,not sure how i feel about this movie mixed emotions #review,Positive
+92,@user92,I love the new features in this update! #awesome,2023-04-02,i love the new features in this update #awesome,Neutral
+93,@user93,This product exceeded my expectations. #happycustomer,2023-04-03,this product exceeded my expectations #happycustomer,Neutral
+94,@user94,Politics is a mess right now. #news,2023-04-04,politics is a mess right now #news,Neutral
+95,@user95,Why is everything so expensive these days? #inflation,2023-04-05,why is everything so expensive these days #inflation,Neutral
+96,@user96,Had the best coffee this morning ☕ #blessed,2023-04-06,had the best coffee this morning  #blessed,Positive
+97,@user97,Can't wait for the weekend! #excited,2023-04-07,cant wait for the weekend #excited,Neutral
+98,@user98,Can't wait for the weekend! #excited,2023-04-08,cant wait for the weekend #excited,Positive
+99,@user99,This product exceeded my expectations. #happycustomer,2023-04-09,this product exceeded my expectations #happycustomer,Positive
+100,@user100,Can't wait for the weekend! #excited,2023-04-10,cant wait for the weekend #excited,Positive
